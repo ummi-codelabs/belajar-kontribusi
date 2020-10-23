@@ -7,10 +7,13 @@ Repositori untuk belajar kontribusi open source project.
 ## Fork Repositori
 Fork repositori ini dengan cara menekan tombol fork di sebelah kan atas. 
 
-
+![fork](assets/image/image_1.png)
 
 ## Clone repositori hasil fork
-Selanjutnya, clone repo hasil fork yang ada di akun kamu ke komputer local. Tekan tombol clone, lalu tekan icon *copy to clipboard* .
+Selanjutnya, clone repo hasil fork yang ada di akun kamu ke komputer local. Tekan tombol Code, lalu tekan icon *copy to clipboard* .
+![fork](assets/image/image_2.png)
+
+![fork](assets/image/image_3.png)
 
 
 Buka terminal lalu run git command di bawah ini:
@@ -80,8 +83,10 @@ ubah `<add-nama-kamu>` dengan nama branch yang udah dibuat.
 ## Pull Request
 Kalau kamu buka repositori kamu di GitHub, kamu bisa lihat tombol `Compare & pull request` button.  Tekan tombol tersebut.
 
-
+![fork](assets/image/image_4.png)
 
 Nah selanjutnya tekan tombol Create pull request.
+
+![fork](assets/image/image_5.png)
 
 
