@@ -83,8 +83,10 @@ ubah `<add-nama-kamu>` dengan nama branch yang udah dibuat.
 ## Pull Request
 Kalau kamu buka repositori kamu di GitHub, kamu bisa lihat tombol `Compare & pull request` button.  Tekan tombol tersebut.
 
-
+![fork](assets/image/image_4.png)
 
 Nah selanjutnya tekan tombol Create pull request.
+
+![fork](assets/image/image_5.png)
 
 
