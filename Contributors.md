@@ -10,3 +10,4 @@
 
 
 1. [Gun Gun Priatna](https://github.com/gungunpriatna) : Saya seorang web developer.
+2. [Reza Alamsyah](https://github.com/Reas-19) : Saya seorang penggemar sneaker dan game, sedang mencoba belajar android developer.
